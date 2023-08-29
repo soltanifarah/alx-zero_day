@@ -1,2 +1,3 @@
 # alx-zero_day
-my first readme
+my first read
+This is the root of the repository for ALX zero day projects.
