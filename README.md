@@ -1,2 +1,1 @@
-# alx-zero_day
-my first readme
+Root README for alx-zero_day
